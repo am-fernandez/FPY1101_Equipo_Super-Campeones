@@ -3,14 +3,12 @@ def datos_Aman():
  
 def datos_Adan():
     print("Mi nombre es Adán Valdebenito y tengo 22 años")
-
+   
 def datos_Juan_Arellano() :
     print("Mi nombre es Juan Arellano y tengo 38 años.")
 
-
 def datos_benjamin_morales():
     print("Mi nombre es Benjamín Morales y tengo 34 años.")
-
 
 # Menú base del programa
 
