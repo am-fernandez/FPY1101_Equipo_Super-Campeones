@@ -1,7 +1,13 @@
+
 #Funciones
 
 def datos_Juan_Arellano() :
 print("Mi nombre es Juan Arellano y tengo 38 años.")
+
+
+def datos_benjamin_morales():
+    print("Mi nombre es Benjamín Morales y tengo 34 años.")
+
 
 # Menú base del programa
 while True:
@@ -20,6 +26,7 @@ while True:
     elif op == "2":
         pass # Aquí se llamará a la función del integrante 2
     elif op == "3":
+        datos_benjamin_morales()
         pass # Aquí se llamará a la función del integrante 3
     elif op == "4":
         datos_Juan_Arellano()
