@@ -1,7 +1,7 @@
 #Funciones
 
 def datos_Juan_Arellano() :
-print("Mi nombre es Juan Arellano y tengo 38 años.")
+    print("Mi nombre es Juan Arellano y tengo 38 años.")
 
 # Menú base del programa
 while True:
@@ -9,7 +9,7 @@ while True:
     print("1. Función de integrante 1")
     print("2. Función de integrante 2")
     print("3. Función de integrante 3")
-    print("4. Función de Juan Arellano")
+    print("4. Función de integrante 4")
     print("0. Salir")
     op = input("Seleccione opción: ")
     if op == "0":
