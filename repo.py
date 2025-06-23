@@ -12,7 +12,7 @@ while True:
         break
     elif op == "1":
         pass def datos_Aman():
-            print("Mi nombre es Amán Fernández y tengo 23 años 👁️👄👁️")
+            print("Mi nombre es Amán Fernández y tengo 23 años 👁️ 👄 👁️")
     elif op == "2":
         pass # Aquí se llamará a la función del integrante 2
     elif op == "3":
